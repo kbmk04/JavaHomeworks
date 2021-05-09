@@ -10,7 +10,7 @@ public class Exercise5 {
 		System.out.println(" Enter your first number");
 		int x = input.nextInt();
 
-				System.out.println(" Enter your first number");
+		System.out.println(" Enter your second number");
 		int y = input.nextInt();
 		
 		while(true) {
